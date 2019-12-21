@@ -1,4 +1,4 @@
-# Module 6 Project
+# Module 6 Projects
 * Student Name: PATRICK KIM
 * Program: Data Science 
 * Cohort: 06/24/19
